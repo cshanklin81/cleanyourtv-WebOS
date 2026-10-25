@@ -23,6 +23,13 @@
    "preview": "compact/preview.jpg"
   },
   {
+   "id": "halloween",
+   "name": "Halloween Night",
+   "author": "CleanYourTV",
+   "description": "A cosy storybook Halloween night: a witch, ghosts and pumpkins under the moon. The dock sits at the bottom; Down opens the apps.",
+   "preview": "halloween/preview.jpg"
+  },
+  {
    "id": "horizon",
    "name": "Horizon",
    "author": "CleanYourTV",
